@@ -14,6 +14,7 @@ class BMICalculator extends StatelessWidget {
         ));
 // use copywith() to add the theme we need to dark mode
     // accentColor: Colors.red,
-    // textTheme: TextTheme(body1: TextStyle(color: Colors.white))// replace # with 0xFF for full opacity
+    // textTheme: TextTheme(body1: TextStyle(color: Colors.white))
+    // replace # with 0xFF for full opacity
   }
 }
